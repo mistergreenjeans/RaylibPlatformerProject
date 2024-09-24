@@ -1,0 +1,159 @@
+copeMax-26
+origin
+1304
+100
+Ground
+                                                               hiiiiih     hiI
+                                                               hhhhhhh     hiI
+                                                                    hh     hiI
+                                                                    hh     hiI
+hhhhhhhhhh                                                          hh     hiI
+hiiihhhhhh                                                          hh     hiI
+hiIih                                                               hh     hiI
+hiIih                      -----                                    hh     hiI
+hiIih                                                               hh     <iI
+hiIih                                    -----          -----              <iI
+hiIih                                                                      <iI
+hiiih                                                                      <iI
+hhhhh                                                                      <iI
+                                                                           <iI
+                                                                           <iI
+                                                                           <iI
+                                                                          hhiI
+                                                                          hiiI
+                                                                          hiII
+hhhhhhhhhhhhhhhhhhhhh                                              h      hiID
+hiiiiiiiiiiiiiiiiiiih                                              h      hiID
+hiIIIIIIIIIIIIIIIIIih   hhhhhhhhhhhh                               h      hiID
+hiIIIIIIIDDDDDDDDDIih^^^hiiiiiiiiiih                               h      hiID
+hiiiiiiiIDDDDDDDDDIihhhhhiIIIIIIIIih   hhhhhhhhhhh                 h      hiID
+hhhhhhhiIDDDDDDDDDIiiiiiiiIDDDDDDIih^^^hiiiiiiiiih   hhhhhhhhhhh   h      hiID
+      hiIDDDDDDDDDIIIIIIIIIDDDDDDIihhhhhiIIIIIIIih^^^hiiiiiiiiih^^^h^^^^^^hiID
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDIiiiiiiiIDDDDDIihhhhhiIIIIIIIihhhhhhhhhhhhiID
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDIIIIIIIIIDDDDDIiiiiiiiIDDDDDIiiiiiiiiiiiiiiID
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIIIIIIIIIDDDDDIIIIIIIIIIIIIIIID
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+      hiIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+BACKGROUND:
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                            III                                               
+                            III                                               
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                            III           III            III                  
+                              I           III            III                  
+                                          III            III                  
+                                          I              III                  
+                                                         III                  
+                                                         III                  
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+ENTITIES:
+#0
+FrogStatue
+10455
+816
+0
+###END OF ENTITY###
+#1
+RocketShoot
+10899
+854
+0
+###END OF ENTITY###
+#2
+Walker
+10676
+953
+0
+###END OF ENTITY###
+#3
+Frog
+10904
+980
+0
+###END OF ENTITY###
+#4
+Bat
+10797
+956
+0
+###END OF ENTITY###
+#5
+WalkerSmall
+10971
+945
+0
+###END OF ENTITY###
+#6
+WalkerSmall
+11029
+920
+0
+###END OF ENTITY###
+#7
+Zag
+11000
+902
+1
+###END OF ENTITY###
+#8
+TriShoot
+10780
+855
+0
+###END OF ENTITY###
+#9
+EasyShoot
+10668
+837
+0
+###END OF ENTITY###
+#10
+ShootingBat
+10942
+886
+0
+###END OF ENTITY###
+#11
+Crow
+10854
+848
+0
+###END OF ENTITY###
+#12
+Bat
+10612
+834
+0
+###END OF ENTITY###
+#13
+Frog
+11019
+814
+0
+###END OF ENTITY###

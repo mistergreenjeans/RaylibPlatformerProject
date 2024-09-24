@@ -1,0 +1,87 @@
+copeMax-23
+origin
+1212
+70
+Ground
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDCCCccbbbbhhhhhhhhh     hhhh
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDCCCCCCcccbbbb        I       I  
+DDDDDDDDDDDDDDDDDDDDDDDDDDDCCCCccccccbbbb          I       I  
+DDDDDDDDDDDDDDDDDDDDDDDDDDCCccccbbbbbbbb           I       I  
+DDDDDDDDDDDDDDDDDDDDDDDDDDCccbbbbbbbbb             I       I  
+DDDDDDDDDDDDDDDDDDDDDDCCCCCcbbbbb                  I       I  
+DDDDDDDDDDDDDDDDDDDDDCCcccccbb                     I       I  
+DDDDDDDDDDDDDDDDDDDDDCccbbbbbb                     I       I  
+DDDDDDDDDDDDDDDDDDDDDCcbbbbbbb                    hhhhhhhhhhh 
+DDDDDDDDDDDDDDDDDDDCCCcbbhhhh^^^^^^^^^^                       
+DDDDDDDDDDDDDDDDDDCCcccbbhhhhvvvvvvvvvv                       
+DDDDDDDDDDDDDDCCCCCccbbbb                                     
+DDDDDDDDDDDDDCCcccccbbbb                hhh                   
+DDDDDDDDDDDDCCccbbbbbb                  hhh                   
+DDDDDDDDDDDDCccbbbbbb                   hhh                   
+DDDDDDDDDDDDCcbbb                       hhh                   
+DDDDDDDDDDDDCcbb                        hhh                   
+DDDDDDDDDDDDCcbb                        hhh                   
+DDDDDDDDDDDDCcbb                        hhh         -------   
+DDDDDDDDDDDDCcbb                        hhh                   
+DDDDDDDDDDDDCcbb              ^^^^      hhh                   
+DDDDDDDDDDDDCcbb             <hhhh                            
+DDDDDDDDDDDDCcbb             <hhhh              ^^            
+DDDDDDDDDDDDChhhhhhhh           hh              hh            
+DDDDDDDDDDDDChhhhhhhh           hh              hh            
+DDDDDDDDDDDDChhhhhhhh           hh              hh            
+DDDDDDDDDDDDChhhhhhhh           hh              hh            
+DDDDDDDDDDDDChhhhhhhh           hh  I  I  I  I  hh            
+DDDDDDDDDDDDCCcbb               hh  I  I  I  I  hh            
+DDDDDDDDDDDDDCcbb               hh  I  I  I  I  hh            
+DDDDDDDDDDDDDCcbb               hh  I  I  I  I  hh    ^^^     
+DDDDDDDDDDDDDCcbbaaaaaaa-----aaaaa  ^  ^  ^  ^  hh    ---     
+DDDDDDDDDDDDDCccbbbbbbbb     bbbbb <h><h><h><h>               
+DDDDDDDDDDDDDCCcccccccbb     bbbb   v  v  v  v                
+BACKGROUND:
+                                                              
+                                                              
+                                         II                   
+                                        I I                   
+                                        III                   
+                                         I                    
+                                        III                   
+                                        I I                   
+                                        III                   
+                                         I            I I     
+                           I            III           III     
+                          II            I I            I      
+                          II                          III     
+                          II                          I I     
+                          II                          III     
+                          II                           I      
+                          II                          III     
+                          II                          I I     
+                          II                          III     
+                          II                           I      
+                          II                          III     
+                          II                          I I     
+                          II                          III     
+                          II                           I      
+                IIIIIIIIIIIIIIII  IIIIIIIIIIIIII      III     
+                IIIIIIIIIIIIIIII  IIIIIIIIIIIIII      I I     
+             IIIIIIIIIIIIIIIIIII  IIIIIIIIIIIIII      III     
+                                                       I      
+                                                      III     
+                                                      I I     
+                                                      III     
+                        CCCCC       I  I  I  I                
+                        CCCCC       I  I  I  I                
+                        CCCCC       I  I  I  I                
+ENTITIES:
+#0
+RocketShoot
+10138
+784
+0
+###END OF ENTITY###
+#1
+TriShoot
+9850
+728
+0
+###END OF ENTITY###

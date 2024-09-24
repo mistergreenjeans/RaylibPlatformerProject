@@ -1,0 +1,86 @@
+origin
+1
+4
+Ground
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hiih
+h                                                       hhhh
+h        h                                                  
+h                  h                      h                 
+h                               h                           
+h                                                           
+h                                                   h       
+h                                                           
+h       <h>                                                 
+h                                                           
+h                                                           
+h                                                        h  
+h                                           ,,,,,,,,,,,,    
+h                                       ----aaaaaaaaaaaahhhh
+h        h                                  bccccccccccchiih
+h                                           bcCCCCCCCCCChiih
+h                                           bcCDDDDDDDDDhiih
+h                 ,,,,,,,      ,,,,,        bcCDDDDDDDDDhiih
+h,,,,,,,,,,,,,,,,,aaaaaaa      aaaaa,,,,,,,,bcCDDDDDDDDDhiih
+haaaaaaaaaaaaaaaaabcccccb      bcccbaaaaaaaabcCDDDDDDDDDhiih
+hcccccccccccccccccccCCCcb      bcCccccccccccccCDDDDDDDDDhiih
+hCCCCCCCCCCCCCCCCCCCCDCcb      bcCCCCCCCCCCCCCCDDDDDDDDDhiih
+hDDDDDDDDDDDDDDDDDDDDDCcb^^^^^^bcCDDDDDDDDDDDDDDDDDDDDDDhiih
+hDDDDDDDDDDDDDDDDDDDDDCcbddddddbcCDDDDDDDDDDDDDDDDDDDDDDhiih
+BACKGROUND:
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+         I                                                  
+         I         I            I         I                 
+         I         I            I         I                 
+         I         I            I         I                 
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I    I  
+         I         I            I         I         I    I  
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I         I            I         I         I       
+         I                      I         I                 
+         I                      I         I                 
+                                I         I                 
+                                I                           
+                                                            
+ENTITIES:
+#0
+Player
+88
+246
+1
+###END OF ENTITY###
+#1
+Camera
+0
+0
+1
+###END OF ENTITY###

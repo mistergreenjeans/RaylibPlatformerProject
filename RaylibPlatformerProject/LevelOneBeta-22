@@ -1,0 +1,125 @@
+copeMax-22
+origin
+1253
+26
+Ground
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+aaaaaaaaaaaaaaaaaaaaa                                       
+bbbbbbbbbbbbbbbbbbbbb                                       
+cccccccccccbbbbbb                                           
+CCCCCccccbbbbb                                              
+DDCCcccbbbbb                                                
+DCCccbbbbb                                                  
+CCccbbbb                                                    
+Cccbbb                                                      
+Ccbbb       hhhhhhhh       hh                               
+ccbb        hhhhhhhh       hh                               
+cbbb                                                        
+cbb                                                         
+cbb                                                         
+bbb                                                         
+bb                                                          
+bb                                                          
+bb                    III                        -----      
+bb                    I I                                   
+hhhhh   hhhhh ^ ^ ^ ^ hhh                                   
+hhhhh   hhhhh h h h h hhh                                   
+hhhhh   hhhhh v v v v hhh                                   
+                                 ^                          
+                                 h                          
+                                 h                          
+                                 h                          
+                                 h                          
+                                 h                          
+hhhhhhhhhhhh-----hhhhhh          h                          
+hhhhhhhhhhhh     hhhhhh          v                          
+hhhhhhhhhhhh     hhhhhh                                     
+BACKGROUND:
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                 I                                          
+               I II                                         
+             IIIIII                                         
+             II  II                                         
+             II  II                                         
+             II  II                                         
+             II  II                                         
+             II     IIIIIII                                 
+                    IIIIIII                                 
+                      III                                   
+                       I                                    
+                      III                                   
+                      I I                                   
+                      III                                   
+                       I                         ^^^^^      
+                                                            
+                                                            
+     III                                                    
+     III     IIIIIIIII                                      
+     III                                                    
+b                                                           
+b                                                           
+b                                                           
+b                                                           
+b                                                           
+b                                                           
+b                                                           
+b                                                           
+                                                            
+ENTITIES:
+#0
+Crow
+10474
+510
+0
+###END OF ENTITY###
+#1
+Walker
+10112
+522
+0
+###END OF ENTITY###
+#2
+Zag
+10135
+434
+1
+###END OF ENTITY###
+#3
+WalkerSmall
+10102
+456
+0
+###END OF ENTITY###
+#4
+RocketShoot
+10435
+429
+0
+###END OF ENTITY###

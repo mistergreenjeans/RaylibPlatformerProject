@@ -1,0 +1,81 @@
+copeMax-4
+origin
+180
+-97
+Ground
+DDDDDDDDDDDDDDDDDDDDDDCcbb         bbcCDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDCcbb         bbcCDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDCcbb         bbcCDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDCcbb         bbcCDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDCcbb         bbcCDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDCCCCCCCCCCCCcbb         bbcCCCCCCCCDDDDDDDDDDDDDD
+DDCCCCCCCCCCccccccccccccbb         bbccccccccCCCCDDDDDDDDDDD
+CCCccccccccccbbbbhhhhhhhhh         hhhhhhhhhccccCCDDDDDDDDDD
+CCccbbbbbbbbbbbbbhhhhhhhhh         hhhhhhhhhbbbccCCDDDDDDDDD
+cccbbbbbbbbbbb   hhhhhhhhh         hhhhhhhhhbbbbccCCCCCCDDDD
+bbbbb     bbbb         II           II        bbbccccccCCCDD
+bbbb      bbbb         II           II         bbbbbbbccccCC
+                       II           II          bbbbbbbbbccc
+                       II           II               bbbbbbb
+                       II           II                  bbbb
+                       II           II                      
+                       II           II                      
+                       II           II                      
+                       II           II                      
+                       II  III  II  II                      
+                       II   I       II                      
+                       II  III  II  II                      
+                       II   I       II                      
+                       II   I       II                      
+                           hhhhhhh                          
+dddddd           hhhhhhhhh  iiiii  hhhhhhhhh         ddddddd
+bbbbbbdddddddddddhiiiiiiih hhhhhhh hiiiiiiihdddddddddbbbbbbb
+cccccbbbbbbbbbbbbhhhhhhhhhhhhhhhhhhhhhhhhhhhbbbbbbbbbbcccccc
+CCCCcccccccccccccccccccccccccccccccccccccccccccccccccccCCCCC
+DDDDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+BACKGROUND:
+                       DDD          DDD                     
+                      DDD           DDD                     
+                      DDDD         DDDD                     
+                      DDDD          DDD                     
+                      DDDD          DDD                     
+                      DDDD            D                     
+DDDDDDDDDDDDDDDD      DDDD         DDDD                     
+DDDDDDDDDDDDDDDD      DDD          DDDD                     
+DDDDDDDDDDDDDDDD      DDDD          DDD                     
+DDDDDDDDDDDDDDDDDDDCDDDDD           DDDCCCDDDDDDD           
+DDDDDDDDDDDDDDDDDDIICCDD             CCCCIIDDDDDDDDDD       
+DDDDDDDDDDDDDDDDDDIICCCC             CCCCIIDDDDDDDDDDD      
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC               CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC        I      CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC         I     CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC        II     CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC         I     CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCC         I     CCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDIICCCII           IICCCIIDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDCCCC   II     II   CCCCDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDCCCC  II       II  CCCCDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDDD DDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+                    DDDDDDDDDDDDDDDDD DDDDDDDDDDDDDDDD      
+                                                            
+                                                            
+                                                            
+                                                            
+ENTITIES:
+#0
+SaveStation
+1684
+-600
+0
+###END OF ENTITY###

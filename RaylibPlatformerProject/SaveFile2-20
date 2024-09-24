@@ -1,0 +1,87 @@
+copeMax-20
+origin
+1100
+29
+Ground
+DDDDDDDDDDDDDDDDDDDDDDDDDDDIih     hiIDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDIih     hiIDDDDDDDDDDDDDDDDDDDDDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIih     hiIIIIIIIIIIIIIIIIIIIIIII
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiih     hiiiiiiiiiiiiiiiiiiiiiiii
+DDIihhhhhhhhhhhhhhhhhhhhhhhhhh     hhhhhhhhhhhhhhhhhhhhhhhhh
+DDIih                                                       
+DDIih                                                       
+DDIih                                                       
+DDIih                                                       
+DDIih                                                       
+DDIih                                                  hhhhh
+DDIih                                                  hiiii
+DDIih                                                  hiIII
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih       ----        ----          ----      ----   hiIDD
+DDIih                                                  hiIDD
+DDIih                                                  hiIDD
+DDIih                                            D DDDDhiIDD
+DDIih                                            D DDDDhiIDD
+DDIih                                            D DDDDhiIDD
+DDIihhhhhhh^^^^^^hhhhhh^^^^^^hhhhhhhh^^^^^^hhhh^^^^^^hhhiIDD
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiIDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+BACKGROUND:
+                             DDDDDDD                        
+                            DDDDDDDD                        
+                            DDDDDDDD                        
+                            DDDDDDDDD                       
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD DDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDNDDDDDDDDDDDNDDDDDDDDDDDDNDDDDDDDDDDNDDDDDD   
+  DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+  DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD   
+                                               DDDDDDDDDD   
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+ENTITIES:
+#0
+MiniBoss
+8891
+397
+0
+###END OF ENTITY###
+#1
+LockedDoor
+9260
+292
+0
+###END OF ENTITY###

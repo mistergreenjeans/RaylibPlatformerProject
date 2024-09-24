@@ -1,0 +1,123 @@
+copeMax-8
+origin
+410
+-130
+Ground
+DDDDDDDDDCCCCCCcccbbb       bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDCCccccccbbbbb       bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDCccbbbbbbbb         bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDCCcbbbbbbb           bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCCCccbb                bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcccbbb                bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbbbb                 bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbbb                  bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb                   bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb                   bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb                   bbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb             --ddddbbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb                 bbbbcCDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDCcbb                   bbcCDDDDDDCCCCCCCCCCCCCCCCCCDDDD
+DDDDDCcbb                   bbcCCCCCCCCccccccccccccccccCCDDD
+DDDDDCcbb                   bbcCCcccccccbbbbbbbbbbbbbcccCCDD
+DDDDDCcbb                   bbcCccbbbbbbbbbbbbbbbbbbbbbccCDD
+DDDDDCcbb                   bbcccbbbbbbbb           bbbbcCCD
+DDDDDCcbbd----              bbccbbb                   bbccCD
+DDDDDCccbb                  bbbbbbb                   bbbcCD
+DDDDDCCcbb                  bbbbb                      bbcCD
+DDDDDCCcbb                                             bbcCD
+DDDDDDCcbb                                             bbcCD
+DDDDDDCcbb                                             bbcCD
+DDDDDDCcbb,,,,,,,,,                                    bbcCD
+DDDDDDCcbbaaaaaaaaa                                    bbcCD
+DDDDDDCccbbbbbbbbbb                                    bbcCD
+DCCCCCCCcccccccccbb,,,,,,,,                            bbcCD
+CCccccccccccCCCCcbbaaaaaaaa                       dddddbbcCD
+cccbbbbbbbbcccccccbbbbbbbbb,,,,,,,,,,,            bbbbbbccCD
+bbbbbbbbbbbbbbbbcccccccccbbaaaaaaaaaaa------------bbcccccCCD
+bbbb      bbbbbbbcccccccccbbbbbbbbbbbb            bbcCCCCCDD
+               bbbbbbbbbbbbbbbbbbbbcbb            bbcCDDDDDD
+               bbbbbbbbbbbbbbbbbbbbbbb            bbcCDDDDDD
+                                 bbbbb            bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                                  bbcCDDDDDD
+                                          ,,,,,,,,bbcCDDDDDD
+                                          aaaaaaaabbcCDDDDDD
+                                          bbbbbbbbbccCDDDDDD
+                                          bbccccccccCCDDDDDD
+                                     ,,,,,bbcCCCCCCCCDDDDDDD
+ddddddddddddddddddddddddddd          aaaaabbcCDDDDDDDDDDDDDD
+bbbbbbbbbbbbbbbbbbbbbbbbbbb          bbbbbbccCDDDDDDDDDDDDDD
+cccccccccccccccccccccccccbb          bbcccccCCDDDDDDDDDDDDDD
+CCCCCCCCCCCCCCCCCCCCCCCCcbb          bbcCCCCCDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDCcbb          bbcCDDDDDDDDDDDDDDDDDDD
+BACKGROUND:
+         CCCCCCCCCCCCCN   NCC                               
+        CCCCCCCCCCCCC N   N                                 
+        CCCC     CCCC N   N                                 
+        CCC      CCCC N   N CC                              
+      CCCCC      CCCC N   N CC                              
+      CCCCCC      CCC N   N  C                              
+      CCCCC       CCC N   N  C                              
+      CCCC        CCCCN   N CCCCC                           
+      CCCC        CCCCN   N CCCCC                           
+      CCCC       CCCCCN   N CCCCC                           
+       CCCC      CCCCCNC  N CCCCC                           
+       CCCCC   CCCCCCCNCCCNCCCCCC                           
+       CCCCCCCCCCCCCCCNCCCNCCCCCC                           
+        CCCCCCCCCCCCCCNC  N                                 
+        CCCCCCCCCCCCC N   N                                 
+        CCCCCCCCCCC   N   N Cccc       CCC        CCC       
+         CCCCCCCCC    N   N CCCCCC  CCCCCC        CCCC      
+        CCCCCCCCC     N   N CCCCCCCCCCCCCC  N   N CCCC      
+        CCCCCCCC      N   N CCCCCCCCCCCCC  MOMMMOMCCCC      
+        CCCCCCCC      N   N CCCCCCCCCCCC    N   N  CCCC     
+        CCCCCCCC      N   N  CCCCCCCCCC     N   N   CCC     
+        CCCCCCC       N   N  CCCCCCCCCC     N   N   CCC     
+        CCCCCCC       N   N  CCCCCCCCC      N   N    CCC    
+        CCCCCCC       N   N  CCCCCCCCC      N   N    CCC    
+        CCCCCCC       N   N  CCCCCCCCC      N   N    CCC    
+        CCCCCCCC      N   N  CCCCCCCCC      N   N    CCC    
+            CCCCCCC   N   N  CCCCCCCCC      N   N   CCC     
+                 CC   N   N CCCCCCCCCCC     N   N  CCCC     
+                 CCC  C  CCCCCCCCCCCCCC     N   N  CCCC     
+                 CCCCCCCCCCCCCCCCCCCCCC     N   N  CCC      
+   cccCCCCC              CCCCCC  CCCCCCCC  MOMMMOM C        
+ CCCCCCCCCCCCCCC     CCCC CCCCC   CCCCCCCCC N   NCCC        
+CCCCCCCCCCCCCCCCCC CCCCCC  CCCC   CCCCCCCCCCNCCCNCCC        
+CCCCCCCCCCCCCCCCCCCCCCCCC         CCCCCCCCCCNCCCNCCC        
+CCCCCCCCCCCCCCCCCNCCCNCCCC           CCCCCCCNCCCNCC         
+CCCCCCCCCCCCCCCCCOMMMOCC              CCCCCCNCCCNCC         
+CCCCCCCCCCCCCCCCCNCCCNC                 CCCCNCCCNCC         
+CCCCCCCCCCCCCCCCCNCCCNC                  CCCNCCCNCC         
+CCCCCCCCCCCCCCCCCNCCCNC                   CCNCCCNCC         
+CCCCCCCCCCCCCCCCCOMMMOC                   CCNCCCNCCC        
+CCCCCCCCCCCCCCCCCNCCCNC                   CCNCCCNCCC        
+CCCCCCCCCCCCCCCCCNCCCNC                   CCNCCCNCCC        
+CCCCCCCCCCCCCCCCCNCCCNCC                  CCNCCCNCCC        
+CCCCCCCCCCCCCCCCCOMMMOCC                 CCCNCCCNCCC        
+CCCCCCCCCCCCCCCCCNCCCNCCC                CCCCCCCCCCC        
+CCCCCCCCCCCCCCCCCNCCCNCCC               CCCCCCCCCCCC        
+CCCCCCCCCCCCCCCCCNCCCNCCCC  N      N   CCCCCCCCCCCCC        
+CCCCCCCC     CCCCCCCCCCCCCCMOM    MOMaaaaaCCCCCCCCCC        
+CCCCCCCC     CCCCCCCCCCCCCC N      NCCCCCCCCCCCCCC          
+ CCCCCCC     CCCCCCCCCCCCCCCN      NCCCCCCCCCC              
+               CCCCCCC     CN      NCCCCCCCCCC              
+                           CN      CCC                      
+                         CCCC      CCCC                     
+                           CCCCCCCCCCC                      
+                           CCCCCCCCCCCC                     
+                           CCCCCCCCCCC                      
+                           CCCCCCCCCCC                      
+                           CCCCCCCCCCC                      
+ENTITIES:

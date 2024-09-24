@@ -1,0 +1,81 @@
+copeMax-17
+origin
+1040
+-86
+Ground
+DDDDDDDDDDDDDDDDDDDDDDDDDDDIih         hiIDDDDhhhhhhhDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDIih         hiIDDDDh     hDDDDDDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIih         hiIIIIIh     hIIIIIDD
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiih         hiiiiiih     hiiiiIDD
+DDIihhhhhhhhhhhhhhhhhhhhhhhhhh         hhhhhhhh     hhhhiIDD
+DDIih                                    hhh   -----   hiIDD
+DDIih                                    hhh           hiIII
+DDIih                                    hhh           hiiii
+DDIih                                    hhh           hhhhh
+DDIih                                    hhh                
+DDIih                                    hhh                
+DDIih                                    hhh                
+DDIih               hhhhh                hhh                
+DDIih               hhhhh^^^^^^hhhhhhh^^^hhh                
+DDIih               hhhhhhhhhhhhhhhhhhhhhhhh          <hhhhh
+DDIih               hhh           hhh                 <hiiii
+DDIih               hhh           hhh                  hiIII
+DDIihhhhhhh         hhh           hhh                  hiIDD
+DDIihhhhhhh         hhh           hhh                  hiIDD
+DDIihhhhhhh         hhh           hhh                  hiIDD
+DDIihhhhhhh         hhh           hhh                  hiIDD
+DDIihhhhhhh         hhh    ^^^    hhh    ^^^           hiIDD
+DDIihhhhhhh                hhh           hhh           hiIDD
+DDIihhhhhhh                hhh           hhh           hiIDD
+DDIihhhhhhh                hhh           hhh           hiIDD
+DDIihhhhhhh                hhh           hhh           hiIDD
+DDIihhhhhhh                hhh           hhh   hhhhh   hiIDD
+DDIihhhhhhh                hhh           hhh   hhhhh   hiIDD
+DDIihhhhhhh                hhh           hhh^^^hhhhh^^^hiIDD
+DDIihhhhhhh^^^^^^^hhhhh^^^^hhh^^^^hhh^^^^hhhhhhhhhhhhhhhiIDD
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiIDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+BACKGROUND:
+                              IIIIIIIIII                    
+                             DIIIIIIIIII       DDDDD        
+                             DIIIIIIIIII       DDDDDD       
+                             DIIIIIIIIIID     DDDDDDD       
+      DDDDDDDDDDDDDDDDDDDDD DDIIIIIIIIIID     DDDDDDDD      
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDD     
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDD     
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDD     
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDD     
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDDDDIII
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDDDDIII
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDDDDIII
+    DIIIIIIDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDD  DDDDDDDDDDDDDIII
+    DIIIIIIDDDDDDDDDIIIIIIIIIIIIIIIIIIIIIIIIDDDDDDDDDDDDDIII
+    DIIIIIIDDDDDDDDDDDDIIIIIIIIIIIIIIIIIIIIIDDDDDDDDDDDD III
+    DIIIIIIDDDDDDDDDDDDIIIIIIIIIIIIIIIIIIIIIDDDDDDDDDDDD    
+     IIIIIIDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDD    
+     DDDDDDDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDD    
+     DDDDDDDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDD    
+        DDDDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDD    
+        DDDDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDD    
+        DDDDDDDDDDDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDIIIDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDD  DDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDIIIDDDDDDDDDDDIIIDDDDDDDDDDDDDDDDDDD    
+       DDDDDDDDDDDDDDDDDDDDDDDDDDDIIIDDDDDDDDDDDDDDDDDDD    
+                                    DDDDDDDDD               
+                                                            
+                                                            
+                                                            
+ENTITIES:
+#0
+EasyShoot
+8716
+-664
+0
+###END OF ENTITY###

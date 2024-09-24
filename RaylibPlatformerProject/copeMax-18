@@ -1,0 +1,87 @@
+copeMax-18
+origin
+1100
+-86
+Ground
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDD
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiIDD
+DDIihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhiIDD
+DDIih                hhhhhhhhhhhhhhh                   hiIDD
+IIIih                hhhhhhhhhhhhhhh                   hiIDD
+iiiih                hhhhhhhhhhhhhhh                   hiIDD
+hhhhh                hhhhhhhhhhhhhhh                   hiIDD
+                     hhhhhhhhhhhhhhh                   hiIDD
+             ^                     h    h              hiIDD
+             h                     h    h              hiIDD
+             h                     h    h              hiIDD
+             h                     h    h              hiIDD
+hhhhh        h                     h  --h^^^^^^^hh     hiIDD
+iiiih        h                          hhhhhhhhhh     hiIDD
+IIIih        h                          h              hiIDD
+DDIih        h       h        h         h              hiIDD
+DDIih        h       h        h         h              hiIDD
+DDIih        h       h        h         h              hiIDD
+DDIih                h        h         h              hiIDD
+DDIih                h        h         h     ^        hiIDD
+DDIih                h        h         h     h        hiIDD
+DDIih                h        h         h     h        hiIDD
+DDIih                v        h         h     h        hiIDD
+DDIih                         h         h     h        hiIDD
+DDIih                         h^^^^^^^^^h     h        hiIDD
+DDIih     hhhhh               hhhhhhhhhhh     h        hiIDD
+DDIih^^^^^hhhhh^^^^^^^^^^^^^^^hhhhhhhhhhh     h^^^^^^^^hiIDD
+DDIihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh     hhhhhhhhhhiIDD
+DDIiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiih     hiiiiiiiiiiIDD
+DDIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIih     hiIIIIIIIIIIDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIih     hiIDDDDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIih     hiIDDDDDDDDDDD
+BACKGROUND:
+                                                            
+                                                            
+                                                            
+                                                            
+    DDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD    
+DDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDIDDDDDDDDD    
+DDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDIDDDDDDDDD    
+DDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDIDDDDDDDDD    
+DDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDIDDDDDDDIDDDDDDDDIDDDDDDDDDIDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDIDDDDDDDIDDDDDDDDIDDDDDDDDDIDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDIDDDDDDDIDDDDDDDDIDDDDDDDDDDDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDDDDDDDDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDDDDDDDDDDDDIDDDDDDDDD    
+IIIDDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDDDDDDDDDDDDIDDDDDDDDD    
+DDDDDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDIDDDDDDDDDDDDDDDDDDDD    
+DDDDDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDDDDDDDDDIDDDDDDDDIDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDIDDDDDDDDDDIDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDIDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDIDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDIDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDIDDDDDDDIDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDD    
+   DDDDDDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD    
+    DDDDDDDDDDDDDDDDDIDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD    
+                                         DDDDDDDDDDDDDDD    
+                                         DDDDDDDDDDDDDDD    
+                                         DDDDDDDDDDDDDDD    
+                                         DDDDDDDDDDDDDD     
+ENTITIES:
+#0
+WalkerSmall
+8904
+-478
+0
+###END OF ENTITY###
+#1
+Frog
+9210
+-466
+0
+###END OF ENTITY###
