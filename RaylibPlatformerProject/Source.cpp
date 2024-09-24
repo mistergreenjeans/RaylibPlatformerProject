@@ -21,8 +21,8 @@
 #define MIN(a, b) ((a)<(b)? (a) : (b))
 using namespace std;
 
-const int screenWidth = 1600;
-const int screenHeight = 900;
+const int screenWidth = 1600/2;
+const int screenHeight = 900/2;
 
 const int natrualZoom = 1;
 const int virtualScreenWidth = 480*natrualZoom;
@@ -4965,8 +4965,7 @@ int main(void)
             }
             cout << endl << endl << endl << endl;
         }*/
-        DrawFPS(GetScreenWidth() - 80, 10);
-        DrawFPS(GetScreenWidth() - 95, 10);
+        
         /*DrawText(TextFormat("Screen resolution: %ix%i", screenWidth, screenHeight), 10, 10, 20, DARKBLUE);
         DrawText(TextFormat("World resolution: %ix%i", virtualScreenWidth, virtualScreenHeight), 10, 40, 20, DARKGREEN);
         DrawText(TextFormat("Pos: %ix%i", (int)x, (int)y), 10, 70, 20, DARKGREEN);
